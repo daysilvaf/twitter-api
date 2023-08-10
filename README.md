@@ -1,1 +1,1 @@
-# twitter-api
+Atividade de desafio do projeto da Formação Python Developer onde foi ampliado os conhecimentos sobre Python, Banco de Dados e APIs. Para isso, foi criado um projeto prático com o objetivo de consumir a API REST do Twitter. 
