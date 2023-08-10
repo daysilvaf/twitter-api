@@ -16,4 +16,4 @@ ports:
 environment:
 ME_CONFIG_MONGODB_ADMINUSERNAME: dio
 ME_CONFIG_MONGODB_ADMINPASSWORD: dio
-E_CONFIG_MONGODB_URL: mongodb://dio:dio@mongo:27017/
+ME_CONFIG_MONGODB_URL: mongodb://dio:dio@mongo:27017/
